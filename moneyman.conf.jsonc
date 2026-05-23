@@ -1,0 +1,22 @@
+{
+  "outputVendors": {
+    "supabase": {
+      "active": true,
+      "url": "https://aqnvffocjpicidndldbn.supabase.co",
+      "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFxbnZmZm9janBpY2lkbmRsZGJuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3OTQ1Nzk1NCwiZXhwIjoyMDk1MDMzOTU0fQ.fRbRGPTQMUNG6FcH9I5f1WfoT-aTyTBymdGOSSknFV4",
+      "tableName": "expenses"
+    }
+  },
+  "accounts": [
+    {
+      "id": "max",
+      "key": "max",
+      "active": true
+    },
+    {
+      "id": "cal",
+      "key": "cal", 
+      "active": true
+    }
+  ]
+}
